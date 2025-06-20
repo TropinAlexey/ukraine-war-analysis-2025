@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-ukraine-war-analysis",
+        
+          title: "Ukraine War Analysis",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/ukraine-war-analysis/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
